@@ -183,7 +183,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         private float calculatePrice(boolean addextraTopping, boolean addextraCheese){
-        // First calculate the price of one cup of coffee
+        // calculating price of pizza accordingly 
         int PriceCS = 295;
         int PriceF = 300;
         int PriceBC = 315;
